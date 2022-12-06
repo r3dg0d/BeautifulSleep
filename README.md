@@ -1,5 +1,5 @@
 # BeautifulSleep
-A Website coded for a projector and magic leap, that uses a zero click experience.
+A Website and AI tool coded for a projector and magic leap, that uses a zero click experience.
 
 Displays basic info, and uses magic leap sdk for cursor interaction.
 
@@ -9,6 +9,8 @@ Displays basic info, and uses magic leap sdk for cursor interaction.
 - r3dg0d/cdns
 - r3dg0d/nodejs for server-related processing
 - r3dg0d/videojs or just video tags for beautiful fullscreen autoplay divs
+- html
+- js for animations (probably react)
 
 ---widgets---
 - weather
@@ -18,6 +20,7 @@ Displays basic info, and uses magic leap sdk for cursor interaction.
 - github
 
 --Hardware--
-Leapmotion (Ultraleap Tech)
-Projector from amazon
-A computer running windows 11, or other similar operating system
+- Leapmotion (Ultraleap Tech)
+- Projector from amazon
+- A computer running windows 11, or other similar operating system
+- A web browser (chrome, mozilla firefox, etc)
