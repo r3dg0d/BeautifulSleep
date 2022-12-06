@@ -16,3 +16,8 @@ Displays basic info, and uses magic leap sdk for cursor interaction.
 - create (SIVA / SITA AI voice-assistant integration)
 - chambers secure video server (accessible by voice command)
 - github
+
+--Hardware--
+Leapmotion (Ultraleap Tech)
+Projector from amazon
+A computer running windows 11, or other similar operating system
